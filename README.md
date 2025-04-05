@@ -1,0 +1,2 @@
+# subdomaintakeover
+hacked
